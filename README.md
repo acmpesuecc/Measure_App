@@ -11,7 +11,7 @@ Team Brain Dead <br>
 Problem Statement: Creating an Application to measure different dimensions using sensors present in the phone, thereby converting a smartphone into a measuring tool. <br>
 </h4>
 
-<h2 align="center"> Measure Application UI </h2>
+<h1 align="center"> Measure Application UI </h1>
 <h4>
 <p align="center">
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884683-fef9421f-418a-4cbb-bfce-c6a87a948201.jpg" >
