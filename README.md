@@ -13,11 +13,31 @@ Problem Statement: Creating an Application to measure different dimensions using
 
 <h3> Measure Application UI </h3>
 <h4>
-1.![Screenshot_20210902-221318](https://user-images.githubusercontent.com/77844663/131884683-fef9421f-418a-4cbb-bfce-c6a87a948201.jpg)<br><br>
-2.![Screenshot_20210902-221323](https://user-images.githubusercontent.com/77844663/131884690-aed7089d-fb4b-4e4f-b825-00b071ca8a81.jpg)<br><br>
-3.![Screenshot_20210902-221328](https://user-images.githubusercontent.com/77844663/131884695-030db83c-cdb2-4845-9a66-7e5f20cac02e.jpg)<br><br>
-4.![Screenshot_20210902-221334](https://user-images.githubusercontent.com/77844663/131884700-a0d73f78-a1e9-4023-86af-89d834f5b5de.jpg)<br><br>
-5.![Screenshot_20210902-221339](https://user-images.githubusercontent.com/77844663/131884703-dae2af0a-1f2f-4be7-9488-83dcbe663881.jpg)<br><br>
-6.![Screenshot_20210902-221342](https://user-images.githubusercontent.com/77844663/131884707-8314ce7b-8319-480c-a3b3-f93d23e32482.jpg)<br><br>
-7.![Screenshot_20210902-221349](https://user-images.githubusercontent.com/77844663/131884711-00a60aa8-3889-4298-8418-9f5518c694f5.jpg)<br><br>
-</h4>
+<p align="center">
+<img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884683-fef9421f-418a-4cbb-bfce-c6a87a948201.jpg" >
+<br><br>
+</p>
+<p align="center">
+<img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884690-aed7089d-fb4b-4e4f-b825-00b071ca8a81.jpg" >
+<br><br>
+</p>
+<p align="center">
+<img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884695-030db83c-cdb2-4845-9a66-7e5f20cac02e.jpg" >
+<br><br>
+</p>
+<p align="center">
+<img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884700-a0d73f78-a1e9-4023-86af-89d834f5b5de.jpg" >
+<br><br>
+</p>
+<p align="center">
+<img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884703-dae2af0a-1f2f-4be7-9488-83dcbe663881.jpg" >
+<br><br>
+</p>
+<p align="center">
+<img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884707-8314ce7b-8319-480c-a3b3-f93d23e32482.jpg" >
+<br><br>
+</p>
+<p align="center">
+<img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884711-00a60aa8-3889-4298-8418-9f5518c694f5.jpg" >
+<br><br>
+</p>
