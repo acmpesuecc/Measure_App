@@ -18,32 +18,32 @@ Problem Statement: Creating an Application to measure different dimensions using
 <br><br>
 </p>
 <p align="center">
-<h2>Home Screen</h2>
+<h2>Inclination</h2>
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884690-aed7089d-fb4b-4e4f-b825-00b071ca8a81.jpg" >
 <br><br>
 </p>
 <p align="center">
-<h2>Inclination</h2>
+<h2>Dimensions</h2>
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884695-030db83c-cdb2-4845-9a66-7e5f20cac02e.jpg" >
 <br><br>
 </p>
 <p align="center">
-<h2>Dimensions</h2>
+<h2>Light Sensor</h2>
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884700-a0d73f78-a1e9-4023-86af-89d834f5b5de.jpg" >
 <br><br>
 </p>
 <p align="center">
-<h2>Light Sensor</h2>
+<h2>Speedometer</h2>
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884703-dae2af0a-1f2f-4be7-9488-83dcbe663881.jpg" >
 <br><br>
 </p>
 <p align="center">
-<h2>Speedometer</h2>
+<h2>Compass</h2>
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884707-8314ce7b-8319-480c-a3b3-f93d23e32482.jpg" >
 <br><br>
 </p>
 <p align="center">
-<h2>Compass</h2>
+<h2>Stopwatch</h2>
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884711-00a60aa8-3889-4298-8418-9f5518c694f5.jpg" >
 <br><br>
 </p>
