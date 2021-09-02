@@ -1,0 +1,81 @@
+package com.example.measure
+
+import android.content.Intent
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.os.SystemClock
+import android.view.View
+import android.widget.Button
+import android.widget.Chronometer
+import android.widget.Chronometer.OnChronometerTickListener
+
+class MainActivity7 : AppCompatActivity()
+{
+    private var chronometer: Chronometer? = null
+    private var pauseOffset: Long = 0
+    private var running = false
+
+    override fun onCreate(savedInstanceState: Bundle?)
+    {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main7)
+
+        chronometer = findViewById(R.id.chronometer)
+        chronometer?.format = "%s"
+        chronometer?.base = SystemClock.elapsedRealtime()
+        chronometer?.setOnChronometerTickListener(OnChronometerTickListener
+        { chronometer ->
+
+        })
+
+        val button = findViewById<Button>(R.id.speedometer_button)
+        button.setOnClickListener{
+            val intent = Intent(this, MainActivity5::class.java)
+            startActivity(intent)
+        }
+
+        val button2 = findViewById<Button>(R.id.compass_button)
+        button2.setOnClickListener{
+            val intent = Intent(this, MainActivity4::class.java)
+            startActivity(intent)
+        }
+
+        val button3 = findViewById<Button>(R.id.measure_button)
+        button3.setOnClickListener{
+            val intent = Intent(this, MainActivity6::class.java)
+            startActivity(intent)
+        }
+
+        val button7 = findViewById<Button>(R.id.timer_button)
+        button7.setOnClickListener{
+            val intent = Intent(this, MainActivity7::class.java)
+            startActivity(intent)
+        }
+    }
+
+    fun startChronometer(v: View?)
+    {
+        if (!running)
+        {
+            chronometer!!.base = SystemClock.elapsedRealtime() - pauseOffset
+            chronometer!!.start()
+            running = true
+        }
+    }
+
+    fun pauseChronometer(v: View?)
+    {
+        if (running)
+        {
+            chronometer!!.stop()
+            pauseOffset = SystemClock.elapsedRealtime() - chronometer!!.base
+            running = false
+        }
+    }
+
+    fun resetChronometer(v: View?)
+    {
+        chronometer!!.base = SystemClock.elapsedRealtime()
+        pauseOffset = 0
+    }
+}
