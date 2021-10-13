@@ -8,7 +8,7 @@ A clean-aesthetically pleasing Measuring Application, which uses relevant sensor
 
 <h3><b>What it does</b></h3>
 <p>
-  The app we built does what it reads i.e. measures. The core principle of the application makes use of all sensors built into the phone by default. The app provides the users with a vast variety of dimensions to choose from. The different options provided are: <br><br>
+  The app we built does what it reads i.e. measures. The core principle of the application makes use of all sensors built into the phone by default. The app provides the users with a vast variety of dimensions to choose from. The different options provided are: <br>
 <ul>
   <li>Speedometer :                <i>Accelerometer Sensor</i></li> 
   <li>Compass :                    <i>Accelerometer and Magnetic Field Sensor</i></li> 
