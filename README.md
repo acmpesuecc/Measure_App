@@ -1,15 +1,34 @@
 # Measure_App
 A clean-aesthetically pleasing Measuring Application, which uses relevant sensors-converts raw sensor data into human readable formatted outputs-and displays accurate measurements.
 
-<h3>
-Manab Kumar Biswas  - PES2UG20CS185 <br>
-Mithul Chander Babu - PES2UG20CS198 <br>
-LN Sriranga - PES2UG20CS179 <br>
-Team Brain Dead <br>
-</h3>
-<h4>
-Problem Statement: Creating an Application to measure different dimensions using sensors present in the phone, thereby converting a smartphone into a measuring tool. <br>
-</h4>
+<h3>Inspiration</h3>
+<p>We have taken inspiration from how iOS has its own exclusive app to measure dimensions. Though Android possesses the capability to house in the same set of features, there is no such official app for the same. Different applications are required to deal with different dimensions. Here, we have tried to make it all possible by creating a single application to measure different dimensions.</p>
+
+<h3>What it does</h3>
+The app we built does what it reads i.e. measures. The core principle of the application makes use of all sensors built into the phone by default. The app provides the users with a vast variety of dimensions to choose from. The different options provided are:
+
+->Speedometer :                Accelerometer Sensor 
+->Compass :                    Accelerometer and Magnetic Field Sensor 
+->Tilt :                       Game Rotation Vector Sensor 
+->Light sensor :               Ambient Light Sensor 
+->Stop watch :                 Programming Code 
+->Dimensions(height , width) : Linear Accelerometer Sensor
+
+How we built it
+Kotlin basic course - Google Developer's Website
+Youtube tutorials - conversion of raw sensor data into usable readings. Figma docs reference - UI/UX and Application Design
+
+Challenges we ran into
+1) Processing and converting raw sensor data into usable data. 2)Integration of multiple pages of the app together 3)Detection of length using augmented reality and accelerometer sensors 4)Using complex functions with intermediate knowledge in Kotlin
+
+Accomplishments that we're proud of
+Built an app from scratch within the stipulated time, which accurately measures readings using relevant sensors, converts raw sensor data into human readable format and displays accurate readings, all while providing a neat and clean aesthetic look while using less resources from the phone.
+
+What we learned
+1) Integration of sensors present in the phone with the app. 2) Conversion and processing of raw sensor data into usable data formats. 3)UI/UX design using Figma 4)Kotlin Android App Development 5)Android Studio 6)Anatomy of a smartphone - based on sensors
+
+What's next for MEASURE
+We plan to include even more feature in the upcoming releases, such as: 1)Support for measuring sound intensity - Uses the microphone for the input and measures the intensity in decibels 2)Mobile Device Statistics- Network strength , Device temperature and Battery Health 3)Add On Features - BMI Calculation - calculation of BMI based on inputs entered by the user - such as weight (which can not be measured using phone sensors).
 
 <h1 align="center"> Measure Application UI </h1>
 <h4>
