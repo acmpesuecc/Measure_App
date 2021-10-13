@@ -16,6 +16,7 @@ A clean-aesthetically pleasing Measuring Application, which uses relevant sensor
   <li>Light sensor :               <i>Ambient Light Sensor</i></li> 
   <li>Stop watch :                 <i>Programming Code</i></li> 
   <li>Dimensions(height,width) :   <i>Linear Accelerometer Sensor</i></li>
+</ul>
 </p>
 
 <h3><b>How we built it</b></h3>
