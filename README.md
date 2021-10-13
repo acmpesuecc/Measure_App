@@ -60,7 +60,7 @@ Youtube tutorials - conversion of raw sensor data into usable readings. Figma do
     <li>Mobile Device Statistics- Network strength , Device temperature and Battery Health.</li>
   </ol>
 </p>
-    
+<div align="center">
 <h2> Measure Application UI </h2>
 <h4>
 <p>
@@ -97,6 +97,7 @@ Youtube tutorials - conversion of raw sensor data into usable readings. Figma do
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884711-00a60aa8-3889-4298-8418-9f5518c694f5.jpg" >
 <br><br>
 </p>
+</div>
 
 # Contributing Guidelines :
 
