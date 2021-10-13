@@ -61,7 +61,7 @@ Youtube tutorials - conversion of raw sensor data into usable readings. Figma do
   </ol>
 </p>
     
-<h1 align="center"> Measure Application UI </h1>
+<h3> Measure Application UI </h3>
 <h4>
 <p align="center">
 <img width="448" alt="Start_Page" src="https://user-images.githubusercontent.com/77844663/131884683-fef9421f-418a-4cbb-bfce-c6a87a948201.jpg" >
