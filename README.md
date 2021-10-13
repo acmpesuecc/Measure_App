@@ -21,8 +21,11 @@ A clean-aesthetically pleasing Measuring Application, which uses relevant sensor
 
 <h3><b>How we built it</b></h3>
 <p>
-  Kotlin basic course - Google Developer's Website<br>
-Youtube tutorials - conversion of raw sensor data into usable readings. Figma docs reference - UI/UX and Application Design
+  <ul>
+    <li>Kotlin basic course - Google Developer's Website</li>
+    <li>Youtube tutorials - conversion of raw sensor data into usable readings</li> 
+    <li>Figma docs reference - UI/UX and Application Design</li>
+  </ul>
 </p>
 
 <h3><b>Challenges we ran into</b></h3>
