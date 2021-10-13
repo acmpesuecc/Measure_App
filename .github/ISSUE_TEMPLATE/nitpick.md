@@ -1,7 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
+name: Nitpick
+about: Nitpick faults and create a report to help us improve
+title: "[NITPICK]"
 labels: ''
 assignees: ''
 
