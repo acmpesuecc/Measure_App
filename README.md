@@ -105,11 +105,8 @@ We only have a couple of rules and we hope you enjoy the process :)
 
 ## Contributing Rules
 1. Don't move or delete any files. Only modify them.
-2. Put all CNN Model related codes in the CNN.py file, found under the 'Code (Modules)' folder. This also requires you to follow Rule 6 below in the list.
-3. Put all GUI related codes in the GUI.py file, found under the 'Code (Modules)' folder.
-4. Put all Live Object Detection related codes in the 'Image Detection.py' file, found under the 'Code (Modules)' folder.
-5. Put all New model related codes in the 'Code (Modules)' folder.
-6. Upload the entire model file ('.h5' extension) in the 'CNN_Model' folder.
+2. Put all Back End codes in the <a href="https://github.com/Manab784/Measure_App/tree/main/src/main/java/com/example/measure">measure</a> file. 
+3. Put all Front End codes in the <a href="https://github.com/Manab784/Measure_App/tree/main/src/main/res/layout">layout</a> file.
 
 ## Contributing Process
 1. Fork the repository
@@ -124,3 +121,5 @@ We only have a couple of rules and we hope you enjoy the process :)
 10. Submit Pull Request
 
 It's that easy! We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers or ACM team about any problems!
+
+<h3> This is an official repository maintained by ACM PESUECC for Hacktoberfest 2021! </h3>
