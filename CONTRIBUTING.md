@@ -4,8 +4,11 @@ We only have a couple of rules and we hope you enjoy the process :)
 
 ## Contributing Rules
 1. Don't move or delete any files. Only modify them.
-2. Put all Back End codes in the <a href="https://github.com/Manab784/Measure_App/tree/main/src/main/java/com/example/measure">measure</a> file. 
-3. Put all Front End codes in the <a href="https://github.com/Manab784/Measure_App/tree/main/src/main/res/layout">layout</a> file.
+2. Put all Back End codes in the <a href="https://github.com/acmpesuecc/Measure_App/tree/main/src/main/java/com/example/measure">measure</a> file. 
+3. Put all Front End codes in the <a href="https://github.com/acmpesuecc/Measure_App/tree/main/src/main/res/layout">layout</a> file.
+4. All contributions have points assigned to them (All details regarding points will be mentioned in each of the issues created).
+5. Creating issues counts in as a contribution and earns you points too! (points are assigned based on the issue created).
+
 
 ## Contributing Process
 1. Fork the repository
